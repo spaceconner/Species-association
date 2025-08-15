@@ -1,0 +1,69 @@
+ID,Phylum,Species
+Z002,Copepod,Calanoida (mature) spp.
+Z003,Copepod,Eodiaptomus japonicus
+Z004,Copepod,Pseudodiaptomus japonicus
+Z005,Copepod,Calanoida (copepodid)
+Z006,Copepod,Cyclopoida (mature) spp.
+Z007,Copepod,Cyclops kikuchii s.l.
+Z008,Copepod,Eucyclops ? spp.
+Z009,Copepod,Mesocyclops dissimilis
+Z011,Copepod,Paracyclops fibriatus ?
+Z010,Copepod,Thermocyclops taihokuensis
+Z080,Copepod,Tropocyclops? spp.
+Z012,Copepod,Cyclopoida (copepodid)
+Z013,nauplius,nauplius
+Z014,Cladocera,Alona spp.
+Z015,Cladocera,Bosmina spp.
+Z018,Cladocera,Bosminopsis deitersi
+Z019,Cladocera,Ceriodaphnia cf. cornuta
+Z020,Cladocera,Ceriodaphnia cf. quadrangura
+Z021,Cladocera,Chydorus spp.
+Z022,Cladocera,Daphnia ambigua
+Z023_1,Cladocera,Daphnia galeata
+Z023_2,Cladocera,Daphnia pulex
+Z023_3,Cladocera,Daphnia siensin
+Z024,Cladocera,Diaphanosoma cf. dubium
+Z025,Cladocera,Disparalona rostrata ?
+Z026,Cladocera,Ilyocryptus cf. cuneatus
+Z027,Cladocera,Leptodora cf. kinditii-rickhardi
+Z028,Cladocera,Leydigia spp.
+Z030,Cladocera,Moina spp.
+Z032,Cladocera,Pleuroxus spp.
+Z036,Rotifer,Bdelloidea-Proales ?
+Z034,Rotifer,Anuraeopsis sp.
+Z035,Rotifer,Asplanchna spp.
+Z037,Rotifer,Brachionus cf. angularis
+Z038,Rotifer,Brachionus budapestinensis
+Z039,Rotifer,Brachionus calyciflorus
+Z074,Rotifer,Brachionus cf. caudatus
+Z067,Rotifer,Brachionus cf. diversicornis
+Z040,Rotifer,Brachionus forficula
+Z041,Rotifer,Brachionus leydigi ?
+Z042,Rotifer,Brachionus quadridentatus
+Z043,Rotifer,Brachionus rubens-urceolaris ?
+Z044,Rotifer,Collothecidae ? spp.
+Z045,Rotifer,Colurella ? spp.
+Z046,Rotifer,Conochiloides sp.
+Z047,Rotifer,Conochilus unicornis
+Z048,Rotifer,Euchlanis spp.
+Z077,Rotifer,Eudactylota eudactylota
+Z049,Rotifer,Filinia spp.
+Z051,Rotifer,Hexarthra sp.
+Z052,Rotifer,Keratella cf. cochlearis var. cochlearis
+Z054,Rotifer,Keratella cf. cochlearis var. tecta
+Z055,Rotifer,Keratella cf. quadrata
+Z056,Rotifer,Keratella cf. tropica-valga
+Z057,Rotifer,Lecane-Monostyla spp.
+Z058,Rotifer,Lepadella spp.
+Z076,Rotifer,Liliferotrocha ? spp.
+Z078,Rotifer,Lindia tecusa ?
+Z059,Rotifer,Lophocharis spp.
+Z060,Rotifer,Mytilina spp.
+Z061,Rotifer,Notholca spp.
+Z062,Rotifer,Ploesoma truncatum
+Z063,Rotifer,Polyarthra spp.
+Z065,Rotifer,Pompholyx complanata
+Z068,Rotifer,Synchaeta spp.
+Z079,Rotifer,Testudinella spp.
+Z069,Rotifer,Diurella-Trichocerca spp.
+Z071,Rotifer,Trichotria spp.
